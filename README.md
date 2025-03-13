@@ -19,3 +19,5 @@ The publicly available immunization data records by school strict and county was
 [5] School Coverage: Annual Reports of Immunization Status, State of Texas. Assessed through https://www.dshs.texas.gov/immunizations/data/school/coverage.
 
 [6] Kindergarten Programs Readiness. Assessed through www.texaseducationinfo.org/Home/Topic/Kindergarten%20Programs%20and%20Readiness?br=PK-12.
+
+
